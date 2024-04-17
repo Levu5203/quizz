@@ -1,0 +1,226 @@
+[
+    {
+        "question": "Từ viết tắt 'CPU' trong lĩnh vực máy tính đại diện cho điều gì?",
+        "A": "Central Processing Unit",
+        "B": "Computer Processing Unit",
+        "C": "Central Processor Unit",
+        "D": "Control Processing Unit",
+        "answer": "A"
+    },
+    {
+        "question": "Trong Internet, từ viết tắt 'URL' đại diện cho điều gì?",
+        "A": "Universal Resource Locator",
+        "B": "Uniform Resource Locator",
+        "C": "Unified Resource Locator",
+        "D": "Universal Routing Locator",
+        "answer": "B"
+    },
+    {
+        "question": "Định dạng tập tin nào thường được sử dụng để chứa các hình ảnh nén?",
+        "A": "MP3",
+        "B": "AVI",
+        "C": "JPEG",
+        "D": "TXT",
+        "answer": "C"
+    },
+    {
+        "question": "Từ viết tắt 'PDF' đại diện cho điều gì?",
+        "A": "Portable Document Format",
+        "B": "Personal Data File",
+        "C": "Program Database File",
+        "D": "Printed Document File",
+        "answer": "A"
+    },
+    {
+        "question": "Trong Excel, hàm SUM() được sử dụng để làm gì?",
+        "A": "Chia tổng số",
+        "B": "Cộng các số",
+        "C": "Trừ các số",
+        "D": "Nhân các số",
+        "answer": "B"
+    },
+    {
+        "question": "Phần mềm nào được sử dụng để tạo và chỉnh sửa văn bản?",
+        "A": "PowerPoint",
+        "B": "Photoshop",
+        "C": "Word",
+        "D": "Excel",
+        "answer": "C"
+    },
+    {
+        "question": "Trong một địa chỉ email, ký tự '@' được sử dụng để làm gì?",
+        "A": "Kết thúc tên người dùng",
+        "B": "Phân tách tên người dùng và tên miền",
+        "C": "Kết thúc tên miền",
+        "D": "Kết thúc tên máy chủ",
+        "answer": "B"
+    },
+    {
+        "question": "Trong lập trình, 'HTML' là viết tắt của gì?",
+        "A": "Hyperlinks and Text Markup Language",
+        "B": "Hyper Text Markup Language",
+        "C": "High Technical Markup Language",
+        "D": "Hyper Technical Markup Language",
+        "answer": "B"
+    },
+    {
+        "question": "Trong Internet, từ viết tắt 'ISP' đại diện cho điều gì?",
+        "A": "Internet Service Provider",
+        "B": "International Service Provider",
+        "C": "Internal Service Provider",
+        "D": "Internet Server Provider",
+        "answer": "A"
+    },
+    {
+        "question": "Trong lĩnh vực máy tính, RAM là viết tắt của gì?",
+        "A": "Random Access Memory",
+        "B": "Read-Only Memory",
+        "C": "Random Authorized Memory",
+        "D": "Read Access Memory",
+        "answer": "A"
+    },
+    {
+        "question": "Định dạng tập tin nào thường được sử dụng để chứa video?",
+        "A": "TXT",
+        "B": "MP3",
+        "C": "AVI",
+        "D": "JPEG",
+        "answer": "C"
+    },
+    {
+        "question": "Từ viết tắt 'URL' trong Internet đại diện cho điều gì?",
+        "A": "Uniform Resource Locator",
+        "B": "Unified Routing Language",
+        "C": "Unified Resource Locator",
+        "D": "Uniform Routing Language",
+        "answer": "A"
+    },
+    {
+        "question": "Trong Excel, hàm AVG() được sử dụng để làm gì?",
+        "A": "Tính trung bình cộng",
+        "B": "Tính trung bình chia",
+        "C": "Tính trung bình nhân",
+        "D": "Tính trung bình trừ",
+        "answer": "A"
+    },
+    {
+        "question": "Phần mềm nào được sử dụng để tạo bảng tính?",
+        "A": "PowerPoint",
+        "B": "Photoshop",
+        "C": "Word",
+        "D": "Excel",
+        "answer": "D"
+    },
+    {
+        "question": "Trong một địa chỉ email, ký tự '@' được sử dụng để làm gì?",
+        "A": "Kết thúc tên người dùng",
+        "B": "Phân tách tên người dùng và tên miền",
+        "C": "Kết thúc tên miền",
+        "D": "Kết thúc tên máy chủ",
+        "answer": "B"
+    },
+    {
+        "question": "Trong lập trình, 'HTML' là viết tắt của gì?",
+        "A": "Hyperlinks and Text Markup Language",
+        "B": "Hyper Text Markup Language",
+        "C": "High Technical Markup Language",
+        "D": "Hyper Technical Markup Language",
+        "answer": "B"
+    },
+    {
+        "question": "Trong Internet, từ viết tắt 'ISP' đại diện cho điều gì?",
+        "A": "Internet Service Provider",
+        "B": "International Service Provider",
+        "C": "Internal Service Provider",
+        "D": "Internet Server Provider",
+        "answer": "A"
+    },
+    {
+        "question": "Trong lĩnh vực máy tính, RAM là viết tắt của gì?",
+        "A": "Random Access Memory",
+        "B": "Read-Only Memory",
+        "C": "Random Authorized Memory",
+        "D": "Read Access Memory",
+        "answer": "A"
+    },
+    {
+        "question": "Định dạng tập tin nào thường được sử dụng để chứa video?",
+        "A": "TXT",
+        "B": "MP3",
+        "C": "AVI",
+        "D": "JPEG",
+        "answer": "C"
+    },
+    {
+        "question": "Từ viết tắt 'URL' trong Internet đại diện cho điều gì?",
+        "A": "Uniform Resource Locator",
+        "B": "Unified Routing Language",
+        "C": "Unified Resource Locator",
+        "D": "Uniform Routing Language",
+        "answer": "A"
+    },
+    {
+        "question": "Trong Excel, hàm AVG() được sử dụng để làm gì?",
+        "A": "Tính trung bình cộng",
+        "B": "Tính trung bình chia",
+        "C": "Tính trung bình nhân",
+        "D": "Tính trung bình trừ",
+        "answer": "A"
+    },
+    {
+        "question": "Phần mềm nào được sử dụng để tạo bảng tính?",
+        "A": "PowerPoint",
+        "B": "Photoshop",
+        "C": "Word",
+        "D": "Excel",
+        "answer": "D"
+    },
+    {
+        "question": "Trong một địa chỉ email, ký tự '@' được sử dụng để làm gì?",
+        "A": "Kết thúc tên người dùng",
+        "B": "Phân tách tên người dùng và tên miền",
+        "C": "Kết thúc tên miền",
+        "D": "Kết thúc tên máy chủ",
+        "answer": "B"
+    },
+    {
+        "question": "Trong lập trình, 'HTML' là viết tắt của gì?",
+        "A": "Hyperlinks and Text Markup Language",
+        "B": "Hyper Text Markup Language",
+        "C": "High Technical Markup Language",
+        "D": "Hyper Technical Markup Language",
+        "answer": "B"
+    },
+    {
+        "question": "Trong Internet, từ viết tắt 'ISP' đại diện cho điều gì?",
+        "A": "Internet Service Provider",
+        "B": "International Service Provider",
+        "C": "Internal Service Provider",
+        "D": "Internet Server Provider",
+        "answer": "A"
+    },
+    {
+        "question": "Trong lĩnh vực máy tính, RAM là viết tắt của gì?",
+        "A": "Random Access Memory",
+        "B": "Read-Only Memory",
+        "C": "Random Authorized Memory",
+        "D": "Read Access Memory",
+        "answer": "A"
+    },
+    {
+        "question": "Định dạng tập tin nào thường được sử dụng để chứa video?",
+        "A": "TXT",
+        "B": "MP3",
+        "C": "AVI",
+        "D": "JPEG",
+        "answer": "C"
+    },
+    {
+        "question": "Từ viết tắt 'URL' trong Internet đại diện cho điều gì?",
+        "A": "Uniform Resource Locator",
+        "B": "Unified Routing Language",
+        "C": "Unified Resource Locator",
+        "D": "Uniform Routing Language",
+        "answer": "A"
+    }
+]

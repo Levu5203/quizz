@@ -1,0 +1,155 @@
+[
+    {
+      "question": "Loại năng lượng nào được tích trữ trong một vật nâng lên trên cao?",
+      "A": "Năng lượng cơ học",
+      "B": "Năng lượng hấp thụ",
+      "C": "Năng lượng tiềm năng",
+      "D": "Năng lượng nhiệt",
+      "answer": "C"
+    },
+    {
+      "question": "Công thức nào sau đây đúng để tính tốc độ?",
+      "A": "v = a * t",
+      "B": "v = s / t",
+      "C": "v = m * a",
+      "D": "v = m / s",
+      "answer": "B"
+    },
+    {
+      "question": "Lực tác dụng khi hai vật tiếp xúc trên không gian mà không di chuyển gọi là gì?",
+      "A": "Lực ma sát",
+      "B": "Lực hấp dẫn",
+      "C": "Lực căng",
+      "D": "Không có lực tác dụng",
+      "answer": "D"
+    },
+    {
+      "question": "Lực nào giữ cho một vật chuyển động theo một đường thẳng với vận tốc không đổi?",
+      "A": "Lực trọng lực",
+      "B": "Lực căng",
+      "C": "Lực trở",
+      "D": "Không có lực nào",
+      "answer": "D"
+    },
+    {
+      "question": "Loại năng lượng nào được chuyển đổi thành năng lượng cơ khi bạn chạy?",
+      "A": "Năng lượng nhiệt",
+      "B": "Năng lượng hấp thụ",
+      "C": "Năng lượng điện",
+      "D": "Năng lượng hóa học",
+      "answer": "A"
+    },
+    {
+      "question": "Quy luật nào nói rằng một vật thể sẽ giữ vững trạng thái tĩnh hoặc chuyển động với vận tốc không đổi trừ khi có lực tác động lên nó?",
+      "A": "Quy luật vạn vật hấp dẫn",
+      "B": "Quy luật Newton thứ nhất",
+      "C": "Quy luật Newton thứ hai",
+      "D": "Quy luật Newton thứ ba",
+      "answer": "B"
+    },
+    {
+      "question": "Công thức nào sau đây đúng để tính lực?",
+      "A": "F = m / a",
+      "B": "F = m * v",
+      "C": "F = m * a",
+      "D": "F = v / t",
+      "answer": "C"
+    },
+    {
+      "question": "Đơn vị nào được sử dụng để đo lượng chất của một vật?",
+      "A": "Kilogram",
+      "B": "Meter",
+      "C": "Second",
+      "D": "Coulomb",
+      "answer": "A"
+    },
+    {
+      "question": "Năng lượng không thể được tạo ra hoặc hủy diệt, chỉ có thể chuyển đổi từ dạng này sang dạng khác. Điều này phản ánh quy luật nào?",
+      "A": "Quy luật vạn vật hấp dẫn",
+      "B": "Quy luật bảo toàn năng lượng",
+      "C": "Quy luật của Pascal",
+      "D": "Quy luật Archimedes",
+      "answer": "B"
+    },
+    {
+      "question": "Áp suất được định nghĩa là gì?",
+      "A": "Lực chia cho diện tích",
+      "B": "Khối lượng nhân với vận tốc",
+      "C": "Khối lượng nhân với gia tốc",
+      "D": "Đoạn đường chia cho thời gian",
+      "answer": "A"
+    },
+    {
+      "question": "Đơn vị nào được sử dụng để đo điện trở?",
+      "A": "Ohm",
+      "B": "Volt",
+      "C": "Ampere",
+      "D": "Watt",
+      "answer": "A"
+    },
+    {
+      "question": "Quy luật nào nói rằng áp suất của một lượng khí ở nhiệt độ không đổi là nghịch biến với thể tích của nó?",
+      "A": "Quy luật Boyle",
+      "B": "Quy luật Archimedes",
+      "C": "Quy luật Pascal",
+      "D": "Quy luật Charles",
+      "answer": "A"
+    },
+    {
+      "question": "Loại năng lượng nào tồn tại trong hạt nhân của nguyên tử?",
+      "A": "Năng lượng cơ",
+      "B": "Năng lượng hấp thụ",
+      "C": "Năng lượng hạt nhân",
+      "D": "Năng lượng hóa học",
+      "answer": "C"
+    },
+    {
+      "question": "Trong một hệ thống đóng, tổng năng lượng của hệ thống không thay đổi theo thời gian. Đây là một phản ánh của quy luật nào?",
+      "A": "Quy luật Archimedes",
+      "B": "Quy luật Coulomb",
+      "C": "Quy luật Newton thứ nhất",
+      "D": "Quy luật bảo toàn năng lượng",
+      "answer": "D"
+    },
+    {
+      "question": "Công thức nào sau đây đúng để tính trọng lượng?",
+      "A": "W = m * a",
+      "B": "W = m * g",
+      "C": "W = m / a",
+      "D": "W = g / m",
+      "answer": "B"
+    },
+    {
+      "question": "Năng lượng có thể chuyển đổi giữa các dạng khác nhau, nhưng không thể tạo ra hoặc hủy bỏ. Đây là một phản ánh của quy luật nào?",
+      "A": "Quy luật Archimedes",
+      "B": "Quy luật Coulomb",
+      "C": "Quy luật bảo toàn năng lượng",
+      "D": "Quy luật Newton thứ nhất",
+      "answer": "C"
+    },
+    {
+      "question": "Đơn vị nào được sử dụng để đo điện áp?",
+      "A": "Volt",
+      "B": "Ohm",
+      "C": "Ampere",
+      "D": "Watt",
+      "answer": "A"
+    },
+    {
+      "question": "Loại năng lượng nào tồn tại trong một viên nam châm?",
+      "A": "Năng lượng nhiệt",
+      "B": "Năng lượng hóa học",
+      "C": "Năng lượng từ trường",
+      "D": "Năng lượng điện",
+      "answer": "C"
+    },
+    {
+      "question": "Quy luật nào nói rằng ánh sáng phản xạ theo góc tới bằng góc phản xạ?",
+      "A": "Định luật Newton thứ nhất",
+      "B": "Định luật Newton thứ hai",
+      "C": "Quy luật phản xạ",
+      "D": "Quy luật của Coulomb",
+      "answer": "C"
+    }
+  ]
+  

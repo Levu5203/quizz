@@ -1,0 +1,163 @@
+[
+    {
+      "question": "What is the square root of 81?",
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10",
+      "answer": "C"
+    },
+    {
+      "question": "Solve for x: 2x + 5 = 17",
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "answer": "B"
+    },
+    {
+      "question": "What is the value of π (pi) to two decimal places?",
+      "A": "3.12",
+      "B": "3.14",
+      "C": "3.16",
+      "D": "3.18",
+      "answer": "B"
+    },
+    {
+      "question": "If a triangle has angles measuring 45°, 45°, and 90°, what type of triangle is it?",
+      "A": "Acute",
+      "B": "Obtuse",
+      "C": "Right",
+      "D": "Isosceles",
+      "answer": "C"
+    },
+    {
+      "question": "What is the slope of the line passing through the points (2, 3) and (6, 9)?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "answer": "B"
+    },
+    {
+      "question": "What is the value of 4! (4 factorial)?",
+      "A": "12",
+      "B": "16",
+      "C": "20",
+      "D": "24",
+      "answer": "D"
+    },
+    {
+      "question": "Solve for x: 3x - 7 = 11",
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "10",
+      "answer": "B"
+    },
+    {
+      "question": "What is the area of a circle with radius 5 units? (Use π = 3.14)",
+      "A": "15.7 sq. units",
+      "B": "25 sq. units",
+      "C": "31.4 sq. units",
+      "D": "78.5 sq. units",
+      "answer": "C"
+    },
+    {
+      "question": "What is the sum of the interior angles of a hexagon?",
+      "A": "180°",
+      "B": "360°",
+      "C": "540°",
+      "D": "720°",
+      "answer": "C"
+    },
+    {
+      "question": "What is the volume of a cube with side length 3 units?",
+      "A": "9 cubic units",
+      "B": "18 cubic units",
+      "C": "27 cubic units",
+      "D": "36 cubic units",
+      "answer": "C"
+    },
+    {
+      "question": "What is the value of log₂(8)?",
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "answer": "B"
+    },
+    {
+      "question": "What is the equation of a line in slope-intercept form if the slope is 3 and the y-intercept is -2?",
+      "A": "y = 3x - 2",
+      "B": "y = -2x + 3",
+      "C": "y = 3x + 2",
+      "D": "y = -3x - 2",
+      "answer": "C"
+    },
+    {
+      "question": "What is the value of tan(45°)?",
+      "A": "1",
+      "B": "0",
+      "C": "√2",
+      "D": "2",
+      "answer": "C"
+    },
+    {
+      "question": "If a square has side length 6 units, what is its perimeter?",
+      "A": "12 units",
+      "B": "18 units",
+      "C": "24 units",
+      "D": "36 units",
+      "answer": "C"
+    },
+    {
+      "question": "What is the solution to the equation x² - 4x + 4 = 0?",
+      "A": "x = 0",
+      "B": "x = 2",
+      "C": "x = 4",
+      "D": "x = 2 or x = 4",
+      "answer": "D"
+    },
+    {
+      "question": "What is the value of sin(30°)?",
+      "A": "0",
+      "B": "0.5",
+      "C": "1",
+      "D": "√3/2",
+      "answer": "B"
+    },
+    {
+      "question": "What is the surface area of a cylinder with radius 4 units and height 8 units? (Use π = 3.14)",
+      "A": "128 sq. units",
+      "B": "192 sq. units",
+      "C": "256 sq. units",
+      "D": "384 sq. units",
+      "answer": "B"
+    },
+    {
+      "question": "What is the value of 5^3?",
+      "A": "125",
+      "B": "250",
+      "C": "375",
+      "D": "500",
+      "answer": "A"
+    },
+    {
+      "question": "What is the equation of a circle with center (3, -2) and radius 5?",
+      "A": "(x - 3)² + (y + 2)² = 5",
+      "B": "(x + 3)² + (y - 2)² = 25",
+      "C": "(x - 3)² + (y + 2)² = 25",
+      "D": "(x + 3)² + (y - 2)² = 5",
+      "answer": "C"
+    },
+    {
+      "question": "What is the sum of the first 10 terms of the arithmetic sequence: 3, 7, 11, 15, ...?",
+      "A": "320",
+      "B": "360",
+      "C": "400",
+      "D": "440",
+      "answer": "B"
+    }
+  ]
+  

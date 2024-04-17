@@ -1,0 +1,163 @@
+[
+    {
+      "question": "Đơn vị SI của dòng điện là gì?",
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Watt",
+      "answer": "B"
+    },
+    {
+      "question": "Đơn vị nào sau đây là đơn vị của lực?",
+      "A": "Newton",
+      "B": "Watt",
+      "C": "Joule",
+      "D": "Volt",
+      "answer": "A"
+    },
+    {
+      "question": "Loại năng lượng nào được một vật thể sở hữu do chuyển động của nó?",
+      "A": "Năng lượng tiềm năng",
+      "B": "Năng lượng nhiệt",
+      "C": "Năng lượng động",
+      "D": "Năng lượng điện",
+      "answer": "C"
+    },
+    {
+      "question": "Công thức tính tốc độ là gì?",
+      "A": "Vận tốc = Quãng đường / Thời gian",
+      "B": "Vận tốc = Thời gian / Quãng đường",
+      "C": "Vận tốc = Quãng đường × Thời gian",
+      "D": "Vận tốc = Cường độ / Thời gian",
+      "answer": "A"
+    },
+    {
+      "question": "Đơn vị nào sau đây là đơn vị của công suất?",
+      "A": "Watt",
+      "B": "Joule",
+      "C": "Ampere",
+      "D": "Ohm",
+      "answer": "A"
+    },
+    {
+      "question": "Gia tốc trọng trường trên Trái Đất là bao nhiêu?",
+      "A": "9.8 m/s²",
+      "B": "8.8 m/s²",
+      "C": "10.8 m/s²",
+      "D": "7.8 m/s²",
+      "answer": "A"
+    },
+    {
+      "question": "Nếu lực tác dụng net lên một vật thể là không, thì điều gì xảy ra với tốc độ của vật thể?",
+      "A": "Nó giảm",
+      "B": "Nó tăng",
+      "C": "Nó không thay đổi",
+      "D": "Nó dao động",
+      "answer": "C"
+    },
+    {
+      "question": "Trong số những lựa chọn sau, cái nào không phải là một loại máy đơn giản?",
+      "A": "Ròng rọc",
+      "B": "Cần cẩu",
+      "C": "Đường ống",
+      "D": "Cầu chì",
+      "answer": "C"
+    },
+    {
+      "question": "Quy luật nào sau đây nói rằng mỗi hành động đều có một phản ứng bằng và ngược lại?",
+      "A": "Định luật Newton thứ nhất",
+      "B": "Định luật Newton thứ hai",
+      "C": "Định luật Newton thứ ba",
+      "D": "Định luật của Coulomb",
+      "answer": "C"
+    },
+    {
+      "question": "Đơn vị đo điện trở là gì?",
+      "A": "Ohm",
+      "B": "Volt",
+      "C": "Ampere",
+      "D": "Watt",
+      "answer": "A"
+    },
+    {
+      "question": "Đơn vị SI của tần số là gì?",
+      "A": "Hertz",
+      "B": "Watt",
+      "C": "Newton",
+      "D": "Joule",
+      "answer": "A"
+    },
+    {
+      "question": "Trong số những lựa chọn sau, cái nào là đơn vị đo trung bình năng lượng động của các hạt trong một chất?",
+      "A": "Nhiệt độ",
+      "B": "Áp suất",
+      "C": "Mật độ",
+      "D": "Nhiệt lượng",
+      "answer": "A"
+    },
+    {
+      "question": "Quy luật nào nói rằng tổng năng lượng của một hệ thống cô lập không thay đổi qua thời gian?",
+      "A": "Định luật Newton thứ nhất",
+      "B": "Định luật Newton thứ hai",
+      "C": "Định luật bảo toàn năng lượng",
+      "D": "Định luật của Hooke",
+      "answer": "C"
+    },
+    {
+      "question": "Đơn vị đo điện tích là gì?",
+      "A": "Ampere",
+      "B": "Coulomb",
+      "C": "Ohm",
+      "D": "Watt",
+      "answer": "B"
+    },
+    {
+      "question": "Đơn vị đo công và năng lượng là gì?",
+      "A": "Joule",
+      "B": "Newton",
+      "C": "Watt",
+      "D": "Hertz",
+      "answer": "A"
+    },
+    {
+      "question": "Trong số những lựa chọn sau, công thức nào tính năng lượng tiềm năng của năng lượng hấp thụ?",
+      "A": "PT = mgh",
+      "B": "PT = mv²",
+      "C": "PT = 1/2mv²",
+      "D": "PT = mgt",
+      "answer": "A"
+    },
+    {
+      "question": "Quy luật nào nói rằng áp suất của một khí nghịch biến với thể tích của nó ở nhiệt độ không đổi?",
+      "A": "Quy luật Boyle",
+      "B": "Quy luật Charles",
+      "C": "Quy luật Gay-Lussac",
+      "D": "Quy luật của Pascal",
+      "answer": "A"
+    },
+    {
+      "question": "Trong số những lựa chọn sau, cái nào không phải là một dạng của bức xạ điện từ?",
+      "A": "Ánh sáng nhìn thấy",
+      "B": "Âm thanh",
+      "C": "Tia X",
+      "D": "Tia gama",
+      "answer": "B"
+    },
+    {
+      "question": "Đơn vị đo dòng điện là gì?",
+      "A": "Weber",
+      "B": "Tesla",
+      "C": "Henry",
+      "D": "Ampere",
+      "answer": "D"
+    },
+    {
+      "question": "Quy luật nào nói rằng góc phản xạ bằng góc tới?",
+      "A": "Định luật Newton thứ nhất",
+      "B": "Định luật Newton thứ hai",
+      "C": "Quy luật phản xạ",
+      "D": "Quy luật của Coulomb",
+      "answer": "C"
+    }
+  ]
+  
