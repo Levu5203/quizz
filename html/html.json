@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What does HTML stand for?",
+        "A": "Hyper Text Markup Language",
+        "B": "Hyperlink Text Markup Language",
+        "C": "High Technical Markup Language",
+        "D": "Hyper Technical Markup Language",
+        "answer": "A"
+    },
+    {
+        "question": "Which HTML element is used to create a hyperlink?",
+        "A": "<a>",
+        "B": "<link>",
+        "C": "<ul>",
+        "D": "<meta>",
+        "answer": "A"
+    },
+    {
+        "question": "Which HTML element is used to create an ordered list?",
+        "A": "<ul>",
+        "B": "<li>",
+        "C": "<ol>",
+        "D": "<dl>",
+        "answer": "C"
+    },
+    {
+        "question": "Which HTML element is used to display an image?",
+        "A": "<img>",
+        "B": "<picture>",
+        "C": "<image>",
+        "D": "<figure>",
+        "answer": "A"
+    },
+    {
+        "question": "Which HTML element is used to make a text bold?",
+        "A": "<bold>",
+        "B": "<b>",
+        "C": "<strong>",
+        "D": "<em>",
+        "answer": "C"
+    },
+    {
+        "question": "Which HTML element is used to create a form?",
+        "A": "<form>",
+        "B": "<input>",
+        "C": "<button>",
+        "D": "<label>",
+        "answer": "A"
+    },
+    {
+        "question": "Which HTML element is used to define the largest heading?",
+        "A": "<heading>",
+        "B": "<h1>",
+        "C": "<h6>",
+        "D": "<header>",
+        "answer": "B"
+    },
+    {
+        "question": "Which HTML element is used to create a horizontal rule?",
+        "A": "<line>",
+        "B": "<hr>",
+        "C": "<break>",
+        "D": "<hrizontal>",
+        "answer": "B"
+    },
+    {
+        "question": "Which HTML element is used to input data in a form?",
+        "A": "<input>",
+        "B": "<text>",
+        "C": "<form>",
+        "D": "<textbox>",
+        "answer": "A"
+    },
+    {
+        "question": "Which HTML element is used to create an unordered list?",
+        "A": "<ol>",
+        "B": "<ul>",
+        "C": "<li>",
+        "D": "<list>",
+        "answer": "B"
+    }
+]

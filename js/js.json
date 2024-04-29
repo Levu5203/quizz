@@ -1,0 +1,82 @@
+[
+    {
+        "question": "JavaScript is a ____ programming language.",
+        "A": "Client-side",
+        "B": "Server-side",
+        "C": "Both client-side and server-side",
+        "D": "None of the above",
+        "answer": "C"
+    },
+    {
+        "question": "What is JavaScript primarily used for in web development?",
+        "A": "Creating user interfaces",
+        "B": "Handling logic and interactions on web pages",
+        "C": "Designing databases",
+        "D": "Styling and formatting web pages",
+        "answer": "B"
+    },
+    {
+        "question": "JavaScript was originally developed by which company?",
+        "A": "Google",
+        "B": "Microsoft",
+        "C": "Netscape",
+        "D": "Oracle",
+        "answer": "C"
+    },
+    {
+        "question": "Which statement about variables in JavaScript is correct?",
+        "A": "Variables in JavaScript must be declared before use",
+        "B": "JavaScript does not support variables",
+        "C": "Variables in JavaScript can be declared without the var, let, or const keyword",
+        "D": "Variables in JavaScript cannot change value after assignment",
+        "answer": "C"
+    },
+    {
+        "question": "What is the purpose of the alert() function in JavaScript?",
+        "A": "Displaying a warning message on the browser",
+        "B": "Creating a confirmation dialog",
+        "C": "Redirecting the user to another webpage",
+        "D": "Performing an AJAX call",
+        "answer": "A"
+    },
+    {
+        "question": "In JavaScript, which keyword is used to declare a constant?",
+        "A": "const",
+        "B": "let",
+        "C": "var",
+        "D": "final",
+        "answer": "A"
+    },
+    {
+        "question": "Which of the following is the correct syntax for a for loop in JavaScript?",
+        "A": "for (i = 0; i < 5; i++)",
+        "B": "for (i = 0; i <= 5; i++)",
+        "C": "for (i = 1; i <= 5; i++)",
+        "D": "for (i = 1; i < 5; i++)",
+        "answer": "A"
+    },
+    {
+        "question": "What is the purpose of the parseInt() function in JavaScript?",
+        "A": "Converting a string to an integer",
+        "B": "Converting a number to a string",
+        "C": "Rounding a number to the nearest integer",
+        "D": "Checking if a value is NaN",
+        "answer": "A"
+    },
+    {
+        "question": "In JavaScript, which statement below is correct about declaring a function?",
+        "A": "function myFunction() {}",
+        "B": "var myFunction = function() {}",
+        "C": "def myFunction() {}",
+        "D": "myFunction: function() {}",
+        "answer": "A"
+    },
+    {
+        "question": "In JavaScript, what is the purpose of the '===' operator?",
+        "A": "Comparing the values of two variables",
+        "B": "Comparing the values and data types of two variables",
+        "C": "Assigning the value of variable A to variable B",
+        "D": "Checking if variable A is divisible by variable B",
+        "answer": "B"
+    }
+]

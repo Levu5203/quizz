@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What does CSS stand for?",
+        "A": "Cascading Style Sheets",
+        "B": "Creative Style Sheets",
+        "C": "Computer Style Sheets",
+        "D": "Cascading Sheet Styles",
+        "answer": "A"
+    },
+    {
+        "question": "What is the 'font-family' property used for in CSS?",
+        "A": "Set text color",
+        "B": "Set font style",
+        "C": "Set text size",
+        "D": "Set font for text",
+        "answer": "D"
+    },
+    {
+        "question": "What is the 'margin' property used for in CSS?",
+        "A": "Set background color for the element",
+        "B": "Set spacing between elements",
+        "C": "Set element size",
+        "D": "Set font for the element",
+        "answer": "B"
+    },
+    {
+        "question": "Which property can be used to center an element horizontally in CSS?",
+        "A": "align: center;",
+        "B": "vertical-align: middle;",
+        "C": "text-align: center;",
+        "D": "position: center;",
+        "answer": "C"
+    },
+    {
+        "question": "What is the 'background-color' property used for in CSS?",
+        "A": "Set background color for the element",
+        "B": "Set text color for the element",
+        "C": "Set element size",
+        "D": "Set font for the element",
+        "answer": "A"
+    },
+    {
+        "question": "Which property is used to format an element to be positioned to the left in CSS?",
+        "A": "align: left;",
+        "B": "float: left;",
+        "C": "position: left;",
+        "D": "text-align: left;",
+        "answer": "B"
+    },
+    {
+        "question": "Which property is used to add an outline around an element in CSS?",
+        "A": "border-style",
+        "B": "margin",
+        "C": "padding",
+        "D": "outline",
+        "answer": "D"
+    },
+    {
+        "question": "Which property is used to make text bold in CSS?",
+        "A": "font-weight: bold;",
+        "B": "font-style: bold;",
+        "C": "text-style: bold;",
+        "D": "text-weight: bold;",
+        "answer": "A"
+    },
+    {
+        "question": "What is the 'display: inline-block;' property used for in CSS?",
+        "A": "Format element to display as a block",
+        "B": "Format element to display as an inline",
+        "C": "Format element to display as a block and allows horizontal alignment",
+        "D": "Format element to display as an inline and allows horizontal alignment",
+        "answer": "C"
+    },
+    {
+        "question": "Which property can be used to prevent a line break after an element in CSS?",
+        "A": "clear: both;",
+        "B": "float: none;",
+        "C": "position: absolute;",
+        "D": "display: inline;",
+        "answer": "B"
+    }
+]
