@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What is Java?",
+        "A": "A programming language",
+        "B": "A type of coffee",
+        "C": "An operating system",
+        "D": "A web browser",
+        "answer": "A"
+    },
+    {
+        "question": "Who developed Java?",
+        "A": "Microsoft",
+        "B": "Oracle",
+        "C": "Sun Microsystems",
+        "D": "Google",
+        "answer": "C"
+    },
+    {
+        "question": "Which of the following is not a feature of Java?",
+        "A": "Platform Independence",
+        "B": "Automatic Memory Management",
+        "C": "Pointers",
+        "D": "Object-oriented",
+        "answer": "C"
+    },
+    {
+        "question": "What is the keyword used to define a class in Java?",
+        "A": "class",
+        "B": "Class",
+        "C": "cls",
+        "D": "ClassDef",
+        "answer": "A"
+    },
+    {
+        "question": "Which method is called when an object is created in Java?",
+        "A": "initialize()",
+        "B": "start()",
+        "C": "main()",
+        "D": "constructor()",
+        "answer": "D"
+    },
+    {
+        "question": "Which of the following is not a primitive data type in Java?",
+        "A": "int",
+        "B": "float",
+        "C": "String",
+        "D": "boolean",
+        "answer": "C"
+    },
+    {
+        "question": "What is the output of the following code?\n\npublic class Main {\n   public static void main(String[] args) {\n       int x = 5;\n       System.out.println(x++);\n   }\n}",
+        "A": "5",
+        "B": "6",
+        "C": "4",
+        "D": "Compiler Error",
+        "answer": "A"
+    },
+    {
+        "question": "Which keyword is used to inherit a class in Java?",
+        "A": "extends",
+        "B": "inherit",
+        "C": "implements",
+        "D": "inherits",
+        "answer": "A"
+    },
+    {
+        "question": "What is the purpose of the 'final' keyword in Java?",
+        "A": "To declare a constant",
+        "B": "To indicate that a method cannot be overridden",
+        "C": "To specify the entry point of a program",
+        "D": "To prevent a class from being inherited",
+        "answer": "A"
+    },
+    {
+        "question": "Which of the following statements is true about Java?",
+        "A": "Java programs are compiled into bytecode",
+        "B": "Java programs are compiled into machine code",
+        "C": "Java programs are interpreted directly",
+        "D": "Java programs are executed line by line",
+        "answer": "A"
+    }
+]
